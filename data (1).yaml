@@ -1,0 +1,9 @@
+names:
+  0: prohibitory
+  1: danger
+  2: mandatory
+  3: other
+nc: 4
+train: /content/drive/MyDrive/German/YoloOutputs/yolo-data-augmented/train/images
+val: /content/drive/MyDrive/German/YoloOutputs/yolo-data-augmented/val/images
+test: /content/drive/MyDrive/German/YoloOutputs/yolo-data-augmented/test/images
