@@ -42,7 +42,7 @@ model_path = "/content/drive/MyDrive/German/yolov8_low_visibility_trained.pt"
 model = YOLO(model_path)
 
 # Load class names from data.yaml
-with open("/content/drive/MyDrive/German/YoloOutputs/yolo-data-augmented/data.yaml", 'r') as f:
+with open("data (1).yaml", 'r') as f:
     data = yaml.safe_load(f)
 class_names = data['names']
 
